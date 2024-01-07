@@ -1,0 +1,5 @@
+# .gitignore
+
+# Exclude the "folder_to_exclude" directory
+food-101/
+fodd_classifier.pt
